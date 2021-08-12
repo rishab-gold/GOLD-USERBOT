@@ -1,7 +1,7 @@
 {
   "name": "GOLD-USERBOT",
   "description": "GOLD-USERBOT is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "logo": "https://telegra.ph/file/f982bc10e135ec81a0768.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,17 +11,17 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-GOLD-USERBOT/GOLD-USERBOT/",
-  "website": "https://github.com/The-GOLD-USERBOT/",
-  "success_url": "https://t.me/The_GOLD-USERBOT",
+  "repository": "https://github.com/rishab-gold/GOLD-USERBOT/",
+  "website": "https://github.com/rishab-gold/",
+  "success_url": "https://t.me/Gold_UserBotSupport",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Hêll",
-      "value": "『ℌєℓℓ』",
+      "description": "Fill Your Telegram Name. Default Value is Rishab",
+      "value": "『GOLD』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -45,7 +45,7 @@
       "required": false
     },
     "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @HELL_ID_BOT",
+      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @MissRose_bot.",
       "value": "",
       "required": false
     },
