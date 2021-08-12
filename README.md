@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-GOLD-USERBOT">
 </p>
 
 <h6 align="center">
@@ -15,14 +15,14 @@
 </h3>
 
 ------
-[![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/fork)
-[![GitHub stars](https://img.shields.io/github/stars/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/stargazers)
-![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=flat-square&logo=github)
+[![GitHub forks](https://img.shields.io/github/forks/The-GOLD-USERBOT/GOLD-USERBOT?&style=flat-square&logo=github)](https://github.com/The-GOLD-USERBOT/GOLD-USERBOT/fork)
+[![GitHub stars](https://img.shields.io/github/stars/The-GOLD-USERBOT/GOLD-USERBOT?&style=flat-square&logo=github)](https://github.com/The-GOLD-USERBOT/GOLD-USERBOT/stargazers)
+![Repo Size](https://img.shields.io/github/repo-size/The-GOLD-USERBOT/GOLD-USERBOT?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-[![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/The-GOLD-USERBOT/GOLD-USERBOT?&style=flat-square&logo=github)](https://github.com/The-GOLD-USERBOT/GOLD-USERBOT/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
-![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?color=Pink&label=Language&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/The-GOLD-USERBOT/GOLD-USERBOT?color=Pink&label=Language&style=flat-square)
 
 ------
 ## Telegram 🏪
@@ -82,7 +82,7 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
-## HellBot Session
+## GOLD-USERBOT Session
 
 ### Repl
 - Open Repl Link.
@@ -91,8 +91,8 @@
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
+- Your GOLD-USERBOT Session Will be saved in your Telegram Saved Message.
+- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheGOLD-USERBOT/GOLD-USERBOT?v=1)
 
 ### Terminal
 - Open the terminal.
@@ -103,12 +103,12 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
+- Your GOLD-USERBOT Session Will be saved in your Telegram Saved Message.
 
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
-- HellBot was made for fun purpose and to make group management easier.
+- GOLD-USERBOT was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
@@ -120,9 +120,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
+<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-GOLD-USERBOT">The-GOLD-USERBOT</a></h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [GOLD-USERBOT](https://github.com/The-GOLD-USERBOT/GOLD-USERBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
