@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: "HellBot"
+          find: "Hêllẞø†"
 
           replace: "GOLD-USERBOT"
 
