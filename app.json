@@ -45,7 +45,7 @@
       "required": false
     },
     "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @MissRose_bot.",
+      "description": "Fill your private Channel ID if you want to Log PM messages.",
       "value": "",
       "required": false
     },
@@ -105,12 +105,12 @@
       "value": ""
     },
     "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your channel username(without @) to get this displayed on your GOLD Alive.",
       "value": "",
       "required": false
     },
     "YOUR_GROUP": {
-      "description": "Fill your group username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your group username(without @) to get this displayed on your GOLD Alive.",
       "value": "",
       "required": false
     },
