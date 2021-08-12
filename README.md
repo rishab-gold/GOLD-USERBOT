@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>†hê GOLD-USERBOT 🇮🇳</b>
 </h1>
 
 <p align="center">
@@ -67,7 +67,7 @@
 
 `python hell_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Hêllẞø† By
+- Finally Start GOLD-USERBOT By
 
 `bash start.sh`
 
