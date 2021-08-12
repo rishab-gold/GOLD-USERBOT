@@ -24,7 +24,10 @@
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables)
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frishab-gold%2FGOLD-USERBOT)
-
+- 
+## Session String
+Different ways to get your `SESSION`:
+* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@gold-userbot/GOLD-RISHAB)
 
 - 💖 [ARSHMANN)
 - 💖 My Team Members For Supporting Me.
